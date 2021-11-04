@@ -2,8 +2,8 @@
 function App() {
   return (
     <div > 
-    <h1>ola mundo!</h1>
-     <NavBar/>
+    <h1 className= "text-primary">ola mundo!</h1>
+    
     </div>
   );
 }
