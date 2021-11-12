@@ -1,13 +1,13 @@
-package com.Projeto.de.vendas.vendas;
+package com.dessuperior.dsvendas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MeuProjetoApplication {
+public class DsvendasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MeuProjetoApplication.class, args);
+		SpringApplication.run(DsvendasApplication.class, args);
 	}
 
 }

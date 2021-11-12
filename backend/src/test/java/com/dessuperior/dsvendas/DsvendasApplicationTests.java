@@ -1,10 +1,10 @@
-package com.Projeto.de.vendas.vendas;
+package com.dessuperior.dsvendas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MeuProjetoApplicationTests {
+class DsvendasApplicationTests {
 
 	@Test
 	void contextLoads() {
